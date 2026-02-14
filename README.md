@@ -18,7 +18,7 @@ This project is a powerful web application that translates English text or audio
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/GudisaSandeep/Multi-Language-Translator-with-Text-and-Voice-Outputs
+   git clone https://github.com/girishavallabhaneni/Multi-Language-Translator-with-Text-and-Voice-Outputs
    cd Multi-Language-Translator-with-Text-and-Voice-Outputs
    ```
 
@@ -83,10 +83,3 @@ This project is a powerful web application that translates English text or audio
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Developed By
-
-Sandeep Gudisa
-
----
-
-Feel free to contribute, report issues, or suggest enhancements to improve this project!
